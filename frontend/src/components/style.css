@@ -1,0 +1,30 @@
+.header{
+    background-color: rgb(235, 235, 235);
+}
+.login-panel{
+    width: 50%;
+    background-color: rgb(92, 218, 140);
+    border-radius:0.5rem
+}
+
+.register-panel{
+    width: 65%;
+    background-color: rgb(92, 218, 140);
+    border-radius:0.5rem
+    
+}
+.body-style{
+    background-color: rgb(195, 217, 223);
+}
+.login-btn{
+    width: 10%;
+}
+.dashboard-container{
+    width: 70%;
+    background-color: rgb(92, 218, 140);
+    max-height: 100rem;
+    min-height: 15rem;
+    align-items: flex-start;
+    border-radius: 0.5rem;
+}
+
